@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AveDNS
+- 👀 I’m interested in Algos
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Algorithm Development
